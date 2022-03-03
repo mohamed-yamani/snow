@@ -1,0 +1,6 @@
+step 0: ltrace ./level08 => strstr("", "")
+step 1: ./level08 token but not working for me ( You may not access 'token' ) => chmod 777 . && touch tst && ./level08 tst ( No message ) 
+step 2: mv level08 tst1 and creat new file with token name after the test of new file token ( You may not access 'token' )
+step 3: testing me original file with test => ./level08 test <=        
+step 4: su flag08 password : quif5eloekouj29ke0vouxean
+flag : 25749xKZ8L7DkSCwJkT9dyv6f

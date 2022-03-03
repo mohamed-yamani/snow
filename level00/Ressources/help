@@ -1,0 +1,21 @@
+
+ssh level00@10.12.100.250 -p 4242
+1 - find the flag00
+    find / -user flag00 2>/dev/null
+        /usr/sbin/john
+        /rofs/usr/sbin/john
+
+2- read john file
+    cat /usr/sbin/john
+    cdiiddwpgswtgt
+
+3- decoding the flag in https://www.dcode.fr/cipher-identifier
+    nottoohardhere
+
+4 su flag00 and nottoohardhere as password
+
+5 getflag command to get password of next level (level01) x24ti5gi3x0ol2eh4esiuxias
+
+6 su level01
+
+7 getflag

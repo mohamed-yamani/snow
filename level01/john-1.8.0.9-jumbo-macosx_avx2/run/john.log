@@ -1,0 +1,22 @@
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1 password hash
+0:00:00:00 Command line: ./john ../../hash 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 Sorting salts, for performance
+0:00:00:00 - Hash type: descrypt, traditional crypt(3) (min-len 0, max-len 8, longer passwords split)
+0:00:00:00 - Algorithm: DES 256/256 AVX2-16
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 16384
+0:00:00:00 Proceeding with "single crack" mode
+0:00:00:00 - SingleWordsPairMax used is 6
+0:00:00:00 - SingleRetestGuessed = true
+0:00:00:00 - 1129 preprocessed word mangling rules
+0:00:00:00 - Allocated 1 buffer of 1024 candidate passwords
+0:00:00:00 - Processing the remaining buffered candidate passwords, if any
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Rules: Wordlist
+0:00:00:00 - Wordlist file: ./password.lst
+0:00:00:00 - memory mapping wordlist (26325 bytes)
+0:00:00:00 - 57 preprocessed word mangling rules
+0:00:00:00 + Cracked flag01
+0:00:00:00 Session completed

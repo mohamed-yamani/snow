@@ -1,0 +1,5 @@
+from cat /etc/passwd copy flag01:42hDRfypTqqnw:3001:3001::/home/flag/flag01:/bin/bash in new file "hash" 
+    from https://download.openwall.net/pub/projects/john/contrib/macosx/ i download john-1.8.0.9-jumbo-macosx_avx2
+    and I decrypted it with (john-1.8.0.9-jumbo-macosx_avx2) 
+    ./john ../../hash --show
+

